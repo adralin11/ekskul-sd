@@ -56,7 +56,7 @@ body {
     @apply bg-blue-50 text-blue-700 text-xs font-semibold px-2.5 py-1 rounded-full;
   }
   .input {
-    @apply w-full px-3.5 py-2.5 border-1.5 border-gray-200 rounded-lg text-sm font-medium outline-none transition-all focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 bg-white;
+    @apply w-full px-3.5 py-2.5 border border-gray-200 rounded-lg text-sm font-medium outline-none transition-all focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 bg-white;
   }
   .select {
     @apply px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white outline-none focus:border-blue-500 cursor-pointer;
